@@ -1,5 +1,5 @@
 # fikstur
-package java102.FiksturOlusturucu;
+package FiksturOlusturucu;
 
 public class Fikstur implements Comparable<Teams> {
 
