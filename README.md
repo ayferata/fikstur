@@ -30,6 +30,7 @@ public class Fikstur implements Comparable<Teams> {
     @Override
     public int compareTo(Teams o) {
         return 0;
+    
     }
 
 }
