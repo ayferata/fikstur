@@ -29,7 +29,6 @@ public class Fikstur implements Comparable<Teams> {
 
     @Override
     public int compareTo(Teams o) {
-        // TODO Auto-generated method stub
         return 0;
     }
 
